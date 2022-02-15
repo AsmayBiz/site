@@ -50,13 +50,12 @@ header ul li a
     margin-left: 40px;
     text-decoration: none;
 }
-.content
-{
+.content {
     position: relative;
     width: 100%;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: center;
+    align-items: stretch;
 }
 .content .textBox
 {
